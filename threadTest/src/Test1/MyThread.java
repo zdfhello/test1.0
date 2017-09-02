@@ -2,7 +2,7 @@ package Test1;
 
 public class MyThread extends Thread{
 
-	//123123
+	//12312334
 	@Override
 	public void run(){
 		super.run();
