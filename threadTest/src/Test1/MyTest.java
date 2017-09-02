@@ -10,7 +10,7 @@ public class MyTest {
 //			for(int i=0;i<10;i++){
 //				int time = (int) (Math.random()*1000);
 //				Thread.sleep(time);
-//				System.out.println("当前线程="+Thread.currentThread().getName());
+//				System.out.println("锟斤拷前锟竭筹拷="+Thread.currentThread().getName());
 //			}
 //		} catch (Exception e) {
 //			// TODO: handle exception
